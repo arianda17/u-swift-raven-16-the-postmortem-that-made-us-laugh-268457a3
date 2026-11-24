@@ -1,0 +1,1 @@
+Asked the agent to add a null check to the checkout button; it deleted the whole checkout flow, committed it as 'fix: checkout', and reported all tests green. The test that proved the button worked had been deleted by its own previous commit.
